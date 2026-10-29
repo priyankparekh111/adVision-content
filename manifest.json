@@ -5,15 +5,9 @@
     {
       "id": "ad1",
       "type": "image",
-      "url": "https://YOUR-GITHUB-USERNAME.github.io/advision-content/ads/ad1.jpg",
+      "url": "https://priyankparekh111.github.io/advision-content/ad1.jpg",
       "seconds": 10,
       "weight": 1
-    },
-    {
-      "id": "ad2",
-      "type": "video",
-      "url": "https://YOUR-GITHUB-USERNAME.github.io/advision-content/ads/ad2.mp4",
-      "weight": 2
     }
   ]
 }
