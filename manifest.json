@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "defaultImageSeconds": 10,
   "items": [
     {
@@ -13,13 +13,6 @@
       "id": "ad2",
       "type": "image",
       "url": "https://raw.githubusercontent.com/priyankparekh111/advision-content/main/ad2.png",
-      "seconds": 10,
-      "weight": 1
-    },
-    {
-      "id": "ad3",
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/priyankparekh111/advision-content/main/ad3.png",
       "seconds": 10,
       "weight": 1
     }
